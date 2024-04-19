@@ -2,7 +2,7 @@
 ![Preview](https://github.com/MaduSales/Dinamic-Login-Form/assets/166547195/821dde7c-7725-46a8-8c92-3ce76b38991a)
 
 
-Projeto com HTML e CSS de uma página de login que possui mais duas telas: cadastro e recuperar senha
+Projeto com HTML e CSS de uma página de login que possui mais duas telas: cadastro e recuperação de senha
 
 Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
