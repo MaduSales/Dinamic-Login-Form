@@ -1,6 +1,5 @@
 # Dinamic-Login-Form
 
-https://github.com/MaduSales/Dinamic-Login-Form/assets/166547195/428480fa-346a-452f-a9be-857b5021a50d
 
 
 Projeto com HTML e CSS de uma página de login que possui mais duas telas: cadastro e recuperação de senha
